@@ -8,8 +8,8 @@
 
 ### 👨‍💻 About Me
 - 🎓 3rd Year Computer Engineering student  
-- 🕹️ Passionate about **Game Development**, especially with Unity  
-- 🎮 Published games: [Bally](https://play.google.com/store/apps/details?id=com.yourcompany.bally), *Dodge the Asteroids*, *A Fox Story*  
+- 🕹️ Passionate about **Game and Web Development**, especially with Unity(Game) and Asp.Net(Web) 
+- 🎮 Published games: [Glide Ball](https://play.google.com/store/apps/details?id=com.BaysalGames.Bally), *Dodge the Asteroids*, *A Fox Story* , *Cost of Redemption* , *Dodge the Asteroids* 
 - 🌍 Interested in working abroad and growing globally  
 - 🧠 Constantly learning, especially in areas like optimization, algorithms, and clean code
 
@@ -42,8 +42,6 @@
 
 - 🎯 Improving Unity & .NET skills
 - ⚙️ Publishing more games to the Play Store
-- 💪 Weight loss & recovery from ankle injury (discipline journey 💥)
-- 🇬🇧 Leveling up my English daily
 
 ---
 
@@ -55,5 +53,5 @@
 ---
 
 > _"Discipline is choosing between what you want now and what you want most."_  
-> — Abraham Lincoln (ya da senden bir alıntı da ekleyebiliriz!)
+> — Abraham Lincoln 
 
