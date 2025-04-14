@@ -47,7 +47,7 @@
 
 ### 📫 Reach Me
 
-- 💌 Mail: omerfarukbaysal04@gmail.com  
+- 💌 Mail: baysalomerfaruk54@gmail.com  
 - 💼 LinkedIn: [omerfarukbaysal04](https://www.linkedin.com/in/omerfarukbaysal04/)
 
 ---
