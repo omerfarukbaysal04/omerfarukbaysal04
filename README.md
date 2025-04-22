@@ -8,10 +8,10 @@
 
 ### 👨‍💻 About Me
 - 🎓 3rd Year Computer Engineering student  
-- 🕹️ Passionate about **Game and Web Development**, especially with Unity(Game) and Asp.Net(Web) 
+- 🕹️ Passionate about **Cybersecurity** and and game developer as a hobby
 - 🎮 Published games: [Glide Ball](https://play.google.com/store/apps/details?id=com.BaysalGames.Bally), *Dodge the Asteroids*, *A Fox Story* , *Cost of Redemption* , *Dodge the Asteroids* 
 - 🌍 Interested in working abroad and growing globally  
-- 🧠 Constantly learning, especially in areas like optimization, algorithms, and clean code
+- 🧠 Constantly learning, especially in areas like cybersecurity, optimization, algorithms, and clean code
 
 ---
 
@@ -40,8 +40,8 @@
 
 ### 🌱 Currently Working On
 
-- 🎯 Improving Unity & .NET skills
-- ⚙️ Publishing more games to the Play Store
+- 🎯 Improving Cybersecurity and Python skills
+- ⚙️ Publishing more project
 
 ---
 
