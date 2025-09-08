@@ -7,11 +7,11 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 3rd Year Computer Engineering student  
+- 🎓 4th Year Computer Engineering student  
 - 🕹️ Passionate about **Cybersecurity** and and game developer as a hobby
 - 🎮 Published games: [Glide Ball](https://play.google.com/store/apps/details?id=com.BaysalGames.Bally), *Dodge the Asteroids*, *A Fox Story* , *Cost of Redemption* , *Dodge the Asteroids* 
 - 🌍 Interested in working abroad and growing globally  
-- 🧠 Constantly learning, especially in areas like cybersecurity, optimization, algorithms, and clean code
+- 🧠 Constantly learning, especially in areas like cybersecurity, networking, incident analysis, and penetration testing.
 
 ---
 
