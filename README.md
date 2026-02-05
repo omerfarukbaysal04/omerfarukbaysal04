@@ -7,12 +7,13 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 4th Year Computer Engineering student  
-- 🕹️ Passionate about **Cybersecurity & DevOps**
--  🎮 Game developer as a hobby (Unity)
-- 🌍 Interested in working abroad and growing globally  
-- 🧠 Constantly learning, especially in areas like cybersecurity, penetration testing, DevOps & DevSecOps.
-- My portfolio web site --> [Portfolio](https://omerfarukbaysal.netlify.app)
+
+- 🎓 4th year Computer Engineering student  
+- 🔐 Passionate about **Cybersecurity & DevOps**
+- 🎮 Game developer as a hobby (Unity)
+- 🌍 Interested in working abroad and growing in an international environment  
+- 🧠 Constantly learning, especially in cybersecurity, penetration testing, DevOps and DevSecOps
+- 🌐 Portfolio: https://omerfarukbaysal.netlify.app
 
 ---
 
@@ -37,10 +38,19 @@
 
 ---
 
+### 🔐 Cybersecurity & DevOps Focus
+
+- 🔍 Learning vulnerability analysis and penetration testing
+- ⚙️ Automation and security tooling with Python
+- 🐳 Containerization and secure deployments with Docker
+- 🔄 CI/CD and DevSecOps practices
+
+---
+
 ### 🌱 Currently Working On
 
 - 🎯 Improving Cybersecurity and Python skills
-- ⚙️ Automaiton and DevOps 
+- ⚙️ Automation and DevOps
 
 ---
 
@@ -50,4 +60,3 @@
 - 💼 LinkedIn: [omerfarukbaysal04](https://www.linkedin.com/in/omerfarukbaysal04/)
 
 ---
-
