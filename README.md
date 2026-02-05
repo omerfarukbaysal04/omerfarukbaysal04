@@ -8,40 +8,39 @@
 
 ### 👨‍💻 About Me
 - 🎓 4th Year Computer Engineering student  
-- 🕹️ Passionate about **Cybersecurity** and and game developer as a hobby
-- 🎮 Published games: [Glide Ball](https://play.google.com/store/apps/details?id=com.BaysalGames.Bally), *Dodge the Asteroids*, *A Fox Story* , *Cost of Redemption* , *Dodge the Asteroids* 
+- 🕹️ Passionate about **Cybersecurity & DevOps**
+-  🎮 Game developer as a hobby (Unity)
 - 🌍 Interested in working abroad and growing globally  
-- 🧠 Constantly learning, especially in areas like cybersecurity, networking, incident analysis, and penetration testing.
+- 🧠 Constantly learning, especially in areas like cybersecurity, penetration testing, DevOps & DevSecOps.
+- My portfolio web site --> [Portfolio](https://omerfarukbaysal.netlify.app)
 
 ---
 
 ### 🧰 Technologies & Tools
 
-<img src="https://skillicons.dev/icons?i=unity,cs,python,react,dotnet,html,css,js,github,vscode&theme=light" />
+<img src="https://skillicons.dev/icons?i=docker,unity,kali,linux,cs,python,react,flask,fastapi,github,vscode&theme=light" />
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Activity Graph
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omerfarukbaysal04&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerfarukbaysal04&layout=compact&theme=tokyonight" alt="langs" />
-</p>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omerfarukbaysal04&theme=github-compact)
 
 ---
 
-### 🏆 GitHub Trophies
+### 📈 GitHub Profile Summary
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omerfarukbaysal04&theme=algolia&row=1&no-frame=true" />
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omerfarukbaysal04&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omerfarukbaysal04&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omerfarukbaysal04&theme=github_dark)
 
 ---
 
 ### 🌱 Currently Working On
 
 - 🎯 Improving Cybersecurity and Python skills
-- ⚙️ Publishing more project
+- ⚙️ Automaiton and DevOps 
 
 ---
 
@@ -49,10 +48,6 @@
 
 - 💌 Mail: baysalomerfaruk54@gmail.com  
 - 💼 LinkedIn: [omerfarukbaysal04](https://www.linkedin.com/in/omerfarukbaysal04/)
-- Portfolio Web site:[omerfarukbaysal](https://omerfarukbaysal.netlify.app)
 
 ---
-
-> _"Discipline is choosing between what you want now and what you want most."_  
-> — Abraham Lincoln 
 
